@@ -22,7 +22,7 @@ I am a **just normal humans**.
 
 ---
 
-<table> <tr> <td align="center" width="25%"> <img src="/badge/CND_9AF22971F673.png" width="100" alt="CND"/><br/> <br/> <sub>Certified Network Defender</sub><br/> <sub><i>EC-Council</i></sub> </td> <td align="center" width="25%"> <img src="/badge/CEH_2E345519D3F7.png" width="100" alt="CEH"/><br/><br/> <sub>Certified Ethical Hacker</sub><br/> <sub><i>EC-Council</i></sub> </td> <td align="center" width="25%"> <img src="badge/ECIH_29CA1872405F.png" width="100" alt="ECIH"/><br/><br/> <sub>EC-Council Incident Handler</sub><br/> <sub><i>EC-Council</i></sub> </td>  <td align="center" width="25%"> <img src="badge/MTCNA.png" width="100" alt="MTCNA"/><br/><br/> <sub>MikroTik Certified Network Associate</sub><br/> <sub><i>MikroTik</i></sub> </td> </tr> </table>
+<table> <tr> <td align="center" width="25%"> <img src="/badge/CND_9AF22971F673.png" width="100" alt="CND"/><<br/> <sub>Certified Network Defender</sub><br/> <sub><i>EC-Council</i></sub> </td> <td align="center" width="25%"> <img src="/badge/CEH_2E345519D3F7.png" width="100" alt="CEH"/><br/> <sub>Certified Ethical Hacker</sub><br/> <sub><i>EC-Council</i></sub> </td> <td align="center" width="25%"> <img src="badge/ECIH_29CA1872405F.png" width="100" alt="ECIH"/><br/> <sub>EC-Council Incident Handler</sub><br/> <sub><i>EC-Council</i></sub> </td>  <td align="center" width="25%"> <img src="badge/MTCNA.png" width="100" alt="MTCNA"/><br/> <sub>MikroTik Certified Network Associate</sub><br/> <sub><i>MikroTik</i></sub> </td> </tr> </table>
 
 ## 💻 Tech Stack
 
