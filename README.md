@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋 I'm Muhammad Kris
+# Hi 👋 I'm MK
 
 ### 🛡️ Cyber Security Enthusiast | Frontend Developer
 
-I am a **Cyber Security practitioner** with hands-on knowledge in **defensive & offensive security**, supported by international certifications.  
-I also have a **strong interest in Frontend Development** and **basic programming** for automation and security tooling.
+I am a **just normal humans**.
 
 ---
 
@@ -51,16 +50,6 @@ I also have a **strong interest in Frontend Development** and **basic programmin
 
 ---
 
-## 🔍 Areas of Interest
-- Network Security & Hardening
-- Incident Handling & Digital Forensics
-- Vulnerability Assessment & Penetration Testing
-- Web Application Security
-- Security Automation with Python
-- Secure Frontend Development
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=dark" height="160"/>
@@ -69,18 +58,5 @@ I also have a **strong interest in Frontend Development** and **basic programmin
 
 ---
 
-## 🎯 Current Focus
-- Improving blue-team & incident response skills  
-- Building security tools with Python  
-- Developing secure and responsive frontend applications  
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: *(add link)*
-- 🌐 Portfolio: *(add link)*
-- 📧 Email: *(optional)*
-
----
 
 > _"Security is not a product, but a process."_ 🔐
