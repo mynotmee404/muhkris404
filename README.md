@@ -23,13 +23,7 @@ I also have a **strong interest in Frontend Development** and **basic programmin
 
 ---
 
-## 🏆 Certifications
-- 🟥 **CEH – Certified Ethical Hacker**
-- 🟦 **ECIH – EC-Council Incident Handler**
-- 🟨 **CND – Certified Network Defender**
-- 🟩 **MTCNA – MikroTik Certified Network Associate**
-
----
+<table> <tr> <td align="center" width="25%"> <img src="https://i.imgur.com/8ZQZQZB.png" width="100" alt="CEH"/><br/> <b>CEH</b><br/> <sub>Certified Ethical Hacker</sub><br/> <sub><i>EC-Council</i></sub> </td> <td align="center" width="25%"> <img src="https://i.imgur.com/0FzGJ9g.png" width="100" alt="ECIH"/><br/> <b>ECIH</b><br/> <sub>EC-Council Incident Handler</sub><br/> <sub><i>EC-Council</i></sub> </td> <td align="center" width="25%"> <img src="https://i.imgur.com/Rx1ZC5E.png" width="100" alt="CND"/><br/> <b>CND</b><br/> <sub>Certified Network Defender</sub><br/> <sub><i>EC-Council</i></sub> </td> <td align="center" width="25%"> <img src="https://i.imgur.com/4g6mX8y.png" width="100" alt="MTCNA"/><br/> <b>MTCNA</b><br/> <sub>MikroTik Certified Network Associate</sub><br/> <sub><i>MikroTik</i></sub> </td> </tr> </table>
 
 ## 💻 Tech Stack
 
