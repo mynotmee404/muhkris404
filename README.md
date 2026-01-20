@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi 👋 I'm MK
 
-### 🛡️ Frontend Developer | Cyber Security Enthusiast
+> _ ### 🛡️ Frontend Developer | Cyber Security Enthusiast _
 
 I am a **just normal humans**.
 
