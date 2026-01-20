@@ -63,11 +63,11 @@ I am a **just normal humans**.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=mynotmee404&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
     height="165"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mynotmee404&theme=dark&hide_border=true"
     height="165"
   />
 </p>
