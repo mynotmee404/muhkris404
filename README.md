@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 🛡️ Frontend Developer | Cyber Security Enthusiast 
 
-> _"I am just normal Human."_
+> _"I am only a normal human."_
 > 
 ---
 
