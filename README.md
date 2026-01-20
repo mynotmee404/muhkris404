@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi 👋 I'm MK
 
-### 🛡️ Cyber Security Enthusiast | Frontend Developer
+### 🛡️ Frontend Developer | Cyber Security Enthusiast
 
 I am a **just normal humans**.
 
@@ -24,31 +24,40 @@ I am a **just normal humans**.
 
 <table> <tr> <td align="center" width="25%"> <img src="/badge/CND_9AF22971F673.png" width="100" alt="CND"/><<br/> <sub>Certified Network Defender</sub><br/> <sub><i>EC-Council</i></sub> </td> <td align="center" width="25%"> <img src="/badge/CEH_2E345519D3F7.png" width="100" alt="CEH"/><br/> <sub>Certified Ethical Hacker</sub><br/> <sub><i>EC-Council</i></sub> </td> <td align="center" width="25%"> <img src="badge/ECIH_29CA1872405F.png" width="100" alt="ECIH"/><br/> <sub>EC-Council Incident Handler</sub><br/> <sub><i>EC-Council</i></sub> </td>  <td align="center" width="25%"> <img src="badge/MTCNA.png" width="100" alt="MTCNA"/><br/> <sub>MikroTik Certified Network Associate</sub><br/> <sub><i>MikroTik</i></sub> </td> </tr> </table>
 
-## 💻 Tech Stack
+## 💻 TECH STACK
 
-### 🔐 Cyber Security
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000?&logo=kalilinux)
-![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=Wireshark)
-![Nmap](https://img.shields.io/badge/-Nmap-000)
-![Metasploit](https://img.shields.io/badge/-Metasploit-000)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000)
+<h3>🔐 CYBER SECURITY</h3>
 
-### 🖧 Networking
-![MikroTik](https://img.shields.io/badge/-MikroTik-000?&logo=mikrotik)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000)
-![Firewall](https://img.shields.io/badge/-Firewall-000)
-
-### 🧑‍💻 Programming
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-
-### 🎨 Frontend Development
-![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=TailwindCSS)
+![KALI LINUX](https://img.shields.io/badge/KALI_LINUX-000?style=for-the-badge&logo=kalilinux)
+![WIRESHARK](https://img.shields.io/badge/WIRESHARK-000?style=for-the-badge&logo=wireshark)
+![NMAP](https://img.shields.io/badge/NMAP-000?style=for-the-badge)
+![METASPLOIT](https://img.shields.io/badge/METASPLOIT-000?style=for-the-badge)
+![BURP SUITE](https://img.shields.io/badge/BURP_SUITE-000?style=for-the-badge)
 
 ---
+
+<h3>🖧 NETWORKING</h3>
+
+![MIKROTIK](https://img.shields.io/badge/MIKROTIK-000?style=for-the-badge&logo=mikrotik)
+![TCP/IP](https://img.shields.io/badge/TCP_IP-000?style=for-the-badge)
+![FIREWALL](https://img.shields.io/badge/FIREWALL-000?style=for-the-badge)
+
+---
+
+<h3>🧑‍💻 PROGRAMMING</h3>
+
+![PYTHON](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+
+---
+
+<h3>🎨 FRONTEND DEVELOPMENT</h3>
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=javascript)
+![TAILWIND CSS](https://img.shields.io/badge/TAILWIND_CSS-000?style=for-the-badge&logo=tailwindcss)
+
 
 ## 📊 GitHub Stats
 <p align="center">
