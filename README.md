@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 # Hi 👋 I'm MK
 
-> _ ### 🛡️ Frontend Developer | Cyber Security Enthusiast _
 
-I am a **just normal humans**.
 
+### 🛡️ Frontend Developer | Cyber Security Enthusiast 
+
+> _"I am just normal Human."_
+> 
 ---
 
 <table> <tr> <td align="center" width="25%"> <img src="/badge/CND_9AF22971F673.png" width="100" alt="CND"/><<br/> <sub>Certified Network Defender</sub><br/> <sub><i>EC-Council</i></sub> </td> <td align="center" width="25%"> <img src="/badge/CEH_2E345519D3F7.png" width="100" alt="CEH"/><br/> <sub>Certified Ethical Hacker</sub><br/> <sub><i>EC-Council</i></sub> </td> <td align="center" width="25%"> <img src="badge/ECIH_29CA1872405F.png" width="100" alt="ECIH"/><br/> <sub>EC-Council Incident Handler</sub><br/> <sub><i>EC-Council</i></sub> </td>  <td align="center" width="25%"> <img src="badge/MTCNA.png" width="100" alt="MTCNA"/><br/> <sub>MikroTik Certified Network Associate</sub><br/> <sub><i>MikroTik</i></sub> </td> </tr> </table>
@@ -67,7 +69,7 @@ I am a **just normal humans**.
     height="165"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mynotmee404&theme=dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?username=mynotmee404&theme=dark&hide_border=true"
     height="165"
   />
 </p>
