@@ -59,11 +59,19 @@ I am a **just normal humans**.
 ![TAILWIND CSS](https://img.shields.io/badge/TAILWIND_CSS-000?style=for-the-badge&logo=tailwindcss)
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=dark" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=dark&hide_border=true"
+    height="165"
+  />
 </p>
+
 
 ---
 
